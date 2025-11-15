@@ -15,10 +15,7 @@ const About = () => {
 
           <div className="flex-1">
             <p className="text-lg mb-8">
-              I am a passionate AI-Integrated Frontend Developer with a focus on building
-              modern and responsive web applications. With a strong foundation
-              in both frontend, I strive to create
-              seamless and efficient user experiences.
+              I am a passionate AI-Integrated Frontend Developer and Java Full Stack Developer with a focus on building modern and responsive web applications. With a strong foundation in both frontend and backend technologies, including proficiency in SQL, I strive to create seamless, efficient, and intelligent user experiences through innovative design and robust functionality.
             </p>
             <div className="space-y-4">
               <div className="flex items-center">
